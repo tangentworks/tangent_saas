@@ -20,4 +20,4 @@ In this overview you will find the notebooks that will guide you through the use
   - __203 AutoForecasting__:  
 &emsp;Try out this template to build a Tangent AutoForecast with example data.  
 
-version 1.0.1
+version 1.0.2
